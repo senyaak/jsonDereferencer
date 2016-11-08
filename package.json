@@ -1,0 +1,6 @@
+{
+  "name": "json-dereferencer",
+  "version": "1.0.0",
+  "description": "Json reference resolver.",
+  "license": "ISC"
+}
