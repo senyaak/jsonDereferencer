@@ -1,0 +1,21 @@
+{
+  "compileOnSave": false,
+  "buildOnSave": false,
+  "noEmitOnError": false,
+  "filesGlob": [
+    "./src/**/*.ts",
+    "!node_modules/**/*.ts",
+    "!bower/**/*.ts"
+  ],
+  "compilerOptions": {
+    "target": "es5",
+    "module": "amd",
+    "noImplicitAny": false,
+    "removeComments": true,
+    "noLib": false,
+    "preserveConstEnums": true,
+    "declaration": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "out": "./lib/index.js"
+  }
+}
