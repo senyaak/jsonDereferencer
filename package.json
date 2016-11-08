@@ -1,7 +1,0 @@
-{
-  "name": "json-dereferencer",
-  "version": "1.0.0",
-  "main": "dist/index.js",
-  "description": "Json reference resolver.",
-  "license": "ISC"
-}

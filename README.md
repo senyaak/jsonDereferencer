@@ -1,2 +1,2 @@
-JSON-Reference-Resolver
-=======================
+JSON-Reference-Resolver(Type definition)
+========================================
