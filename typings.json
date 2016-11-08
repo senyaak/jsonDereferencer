@@ -1,0 +1,4 @@
+{
+  "name": "json-dereferencer",
+  "main": "lib/index.d.ts"
+}
